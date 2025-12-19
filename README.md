@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jahaziel  
 
-🌟 13-year-old coder, gamer, and robotics enthusiast.  
+🌟Coder, Gamer, and robotics enthusiast.  
 🚀 Always exploring AI, game dev, and creative coding projects.  
 💻 Currently working with my **ASUS TUF RTX 5050 | 16GB RAM | 1TB | 14th Gen HX** powerhouse.  
 
