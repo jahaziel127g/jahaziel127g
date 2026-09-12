@@ -28,8 +28,10 @@ Currently working with my **ASUS TUF RTX 5050 | 16GB RAM | 1TB | 14th Gen HX** p
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahaziel127g&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaziel127g&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahaziel127g&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jahaziel127g&theme=tokyonight)
 
 ---
 
