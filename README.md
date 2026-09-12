@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jahaziel
 
-🌟 Coder, Gamer, and robotics enthusiast.
-🚀 Always exploring AI, game dev, and creative coding projects.
-💻 Currently working with my **ASUS TUF RTX 5050 | 16GB RAM | 1TB | 14th Gen HX** powerhouse.
+Coder, Gamer, and robotics enthusiast.
+Always exploring AI, game dev, and creative coding projects.
+Currently working with my **ASUS TUF RTX 5050 | 16GB RAM | 1TB | 14th Gen HX** powerhouse.
 
 ---
 
@@ -22,14 +22,6 @@
 - Experimenting with AI + robotics projects
 - Constantly learning and creating cool stuff
 
----
-
-## 🚀 Current Goals
-
-- Build **AI dashboards** that connect with live video (ESP32-CAM & TensorFlow.js)
-- Create **educational + gamified websites** to teach coding and AI
-- Push robotics projects further with real-world AI integration
-- Share my journey + projects with the open-source community
 
 ---
 
